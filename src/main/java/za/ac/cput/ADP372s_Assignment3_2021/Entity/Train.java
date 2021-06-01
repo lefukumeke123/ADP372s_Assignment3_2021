@@ -1,5 +1,11 @@
 package za.ac.cput.ADP372s_Assignment3_2021.Entity;
 
+/*  Train.java
+ *  Entity for the Train
+ *  Author: Ian Louw (216250773)
+ *  Date: 1 June 2021
+ */
+
 public class Train {
     private String trainId, trainModel;
 
