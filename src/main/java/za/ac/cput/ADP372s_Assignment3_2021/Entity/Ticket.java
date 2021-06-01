@@ -1,4 +1,4 @@
-package za.ac.cput.ADP372s_Assignment3_2021.Entity.za.ac.cput.ADP372s_Assignment3_2021.Entity;
+package za.ac.cput.ADP372s_Assignment3_2021.Entity;
 
 
 /*
